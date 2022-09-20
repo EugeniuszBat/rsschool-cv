@@ -13,6 +13,7 @@ Minsk electrotechnical plant named after V.I.Kozlov
 **Skills**
 *English language - А1
 *Completed the education for the course of Java programming in Belhard
+*STEP IT Academy (3 month frontend)
 **Interests & extrainformation**
 *Bike ride
 *Sport
